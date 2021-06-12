@@ -5,10 +5,10 @@
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/argon-design-system-react
-* Copyright 2020 Creative Tim (https://www.creative-tim.com)
+* Copyright 2020 Abdallah Alabed (https://www.creative-tim.com)
 * Licensed under MIT (https://github.com/creativetimofficial/argon-design-system-react/blob/main/LICENSE.md)
 
-* Coded by Creative Tim
+* Coded by Abdallah Alabed
 
 =========================================================
 
@@ -45,7 +45,7 @@ class Login extends React.Component {
     return (
       <>
         <section className="section section-lg section-shaped">
-          <div className="shape shape-style-1 shape-default">
+          {/* <div className="shape shape-style-1 shape-default">
             <span />
             <span />
             <span />
@@ -54,7 +54,7 @@ class Login extends React.Component {
             <span />
             <span />
             <span />
-          </div>
+          </div> */}
           <Container className="py-md">
             <Row className="row-grid justify-content-between align-items-center">
               <Col lg="6">
