@@ -5,10 +5,10 @@
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/argon-design-system-react
-* Copyright 2020 Creative Tim (https://www.creative-tim.com)
+* Copyright 2020 Abdallah Alabed (https://www.creative-tim.com)
 * Licensed under MIT (https://github.com/creativetimofficial/argon-design-system-react/blob/main/LICENSE.md)
 
-* Coded by Creative Tim
+* Coded by Abdallah Alabed
 
 =========================================================
 
@@ -26,10 +26,10 @@ class Download extends React.Component {
     return (
       <>
         <section className="section section-lg">
-          <Container>
+          {/* <Container>
             <Row className="row-grid justify-content-center">
-              <Col className="text-center" lg="8">
-                <h2 className="display-3">
+              <Col className="text-center" lg="8"> */}
+                {/* <h2 className="display-3">
                   Do you love this awesome{" "}
                   <span className="text-success">
                     Design System for Bootstrap 4?
@@ -37,11 +37,11 @@ class Download extends React.Component {
                 </h2>
                 <p className="lead">
                   Cause if you do, it can be yours for FREE. Hit the button
-                  below to navigate to Creative Tim where you can find the
+                  below to navigate to Abdallah Alabed where you can find the
                   Design System in React. Start a new project or give an old
                   Bootstrap project a new look!
-                </p>
-                <div className="btn-wrapper">
+                </p> */}
+                {/* <div className="btn-wrapper">
                   <Button
                     className="mb-3 mb-sm-0"
                     color="primary"
@@ -49,8 +49,8 @@ class Download extends React.Component {
                   >
                     Download React
                   </Button>
-                </div>
-                <div className="text-center">
+                </div> */}
+                {/* <div className="text-center">
                   <h4 className="display-4 mb-5 mt-5">
                     Available on these technologies
                   </h4>
@@ -154,10 +154,10 @@ class Download extends React.Component {
                       </UncontrolledTooltip>
                     </Col>
                   </Row>
-                </div>
-              </Col>
+                </div> */}
+              {/* </Col>
             </Row>
-          </Container>
+          </Container> */}
         </section>
       </>
     );
